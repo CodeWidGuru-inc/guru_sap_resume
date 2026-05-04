@@ -13,6 +13,7 @@
   { "type": "technical", "name": "CAPM", "level": "Beginner" },
   { "type": "technical", "name": "Python", "level": "Intermediate" },
   { "type": "technical", "name": "Prompt Engineering", "level": "Intermediate" },
+  { "type": "technical", "name": "Agentic", "level": "Beginner" },
 
   { "type": "tools", "name": "Eclipse ADT", "level": "Advanced" },
   { "type": "tools", "name": "SAP GUI", "level": "Advanced" },
