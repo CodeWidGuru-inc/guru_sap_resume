@@ -1,0 +1,5 @@
+# Serve the SAPUI5 app directly. The app loads UI5 from the public CDN,
+# so no build step is required.
+[build]
+  publish = "webapp"
+  command = ""
